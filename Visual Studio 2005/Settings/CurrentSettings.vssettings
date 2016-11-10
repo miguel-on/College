@@ -1,0 +1,1175 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<UserSettings>
+	<ApplicationIdentity version="8.0"/>
+	<Category name="Debugger" Category="{EEDBF29A-5C8B-4E01-827C-263382C18CFE}" Package="{C9DD4A57-47FB-11D2-83E7-00C04F9902C1}" RegisteredName="Debugger" PackageName="Visual Studio Debugger">
+		<PropertyValue name="AddUnmappedBreakpointAtMappedLocation">1</PropertyValue>
+		<PropertyValue name="AddressExpressionTimeout">10000</PropertyValue>
+		<PropertyValue name="AllowImplicitFuncEval">1</PropertyValue>
+		<PropertyValue name="AllowSideEffectEval">0</PropertyValue>
+		<PropertyValue name="AllowToString">1</PropertyValue>
+		<PropertyValue name="AlwaysColorMarkerText">0</PropertyValue>
+		<PropertyValue name="AttachToProcessDefaultEngineList"/>
+		<PropertyValue name="AutoLoadFromSymbolPath">1</PropertyValue>
+		<PropertyValue name="AutoLoadSymbols">1</PropertyValue>
+		<PropertyValue name="AutoUnwindOnException">1</PropertyValue>
+		<PropertyValue name="AutosRegistersTimeout">2000</PropertyValue>
+		<PropertyValue name="AutosReturnValsTimeout">2000</PropertyValue>
+		<PropertyValue name="CallStackViewOptions">7799040</PropertyValue>
+		<PropertyValue name="ConfirmDeleteAllBreakpoints">1</PropertyValue>
+		<PropertyValue name="ConfirmFoundFiles">0</PropertyValue>
+		<PropertyValue name="CrossThreadCallStack">1</PropertyValue>
+		<PropertyValue name="DataTipTimeout">3000</PropertyValue>
+		<PropertyValue name="DefaultTracepointMessage">Function: $FUNCTION, Thread: $TID $TNAME</PropertyValue>
+		<PropertyValue name="DisableAttachSecurityWarning">0</PropertyValue>
+		<PropertyValue name="DisableJITOptimization">1</PropertyValue>
+		<PropertyValue name="DisasmFields">67577</PropertyValue>
+		<PropertyValue name="DisasmLineNumbers">0</PropertyValue>
+		<PropertyValue name="DisasmStepUnit">2</PropertyValue>
+		<PropertyValue name="ENCApplyChangesOnContinue">1</PropertyValue>
+		<PropertyValue name="ENCEnable">1</PropertyValue>
+		<PropertyValue name="ENCPrecompile">1</PropertyValue>
+		<PropertyValue name="ENCRelink">1</PropertyValue>
+		<PropertyValue name="ENCStaleCodeWarning">1</PropertyValue>
+		<PropertyValue name="ENCWelcome">0</PropertyValue>
+		<PropertyValue name="EnableAddressLevelDebugging">1</PropertyValue>
+		<PropertyValue name="EnableBreakpointConstraints">0</PropertyValue>
+		<PropertyValue name="EnableWatchTipBar">0</PropertyValue>
+		<PropertyValue name="EnhancedDataTips">1</PropertyValue>
+		<PropertyValue name="HexDisplay">0</PropertyValue>
+		<PropertyValue name="HexInput">0</PropertyValue>
+		<PropertyValue name="ImmediateWindowTimeout">5000</PropertyValue>
+		<PropertyValue name="JustMyCode">1</PropertyValue>
+		<PropertyValue name="LoadDllExports">0</PropertyValue>
+		<PropertyValue name="LoadSymbolsWhenSettingsChanged">1</PropertyValue>
+		<PropertyValue name="LocalsTimeout">10000</PropertyValue>
+		<PropertyValue name="LocateSourceUsingOldCode">0</PropertyValue>
+		<PropertyValue name="LongEvalTimeout">10000</PropertyValue>
+		<PropertyValue name="ModulesShowAll">0</PropertyValue>
+		<PropertyValue name="NOENCAllowEdits">1</PropertyValue>
+		<PropertyValue name="NOENCIgnore">0</PropertyValue>
+		<PropertyValue name="NOENCRebuild">0</PropertyValue>
+		<PropertyValue name="NativeRPC">0</PropertyValue>
+		<PropertyValue name="NormalEvalTimeout">5000</PropertyValue>
+		<PropertyValue name="OfferArrayExpansion">0</PropertyValue>
+		<PropertyValue name="OneClickEdit">0</PropertyValue>
+		<PropertyValue name="OutputOnDebuggerMessage">1</PropertyValue>
+		<PropertyValue name="OutputOnException">1</PropertyValue>
+		<PropertyValue name="OutputOnModuleLoad">1</PropertyValue>
+		<PropertyValue name="OutputOnModuleSymbolSearch">1</PropertyValue>
+		<PropertyValue name="OutputOnModuleUnload">1</PropertyValue>
+		<PropertyValue name="OutputOnOutputDebugString">1</PropertyValue>
+		<PropertyValue name="OutputOnProcessDestroy">1</PropertyValue>
+		<PropertyValue name="OutputOnProgramDestroy">1</PropertyValue>
+		<PropertyValue name="OutputOnThreadDestroy">1</PropertyValue>
+		<PropertyValue name="OutputToImmediate">0</PropertyValue>
+		<PropertyValue name="ProgramToDebugPath"/>
+		<PropertyValue name="PromptToAddSourceToIgnoreList">0</PropertyValue>
+		<PropertyValue name="QuickwatchTimeout">20000</PropertyValue>
+		<PropertyValue name="RegistersTimeout">10000</PropertyValue>
+		<PropertyValue name="SaveRemoteDumps">1</PropertyValue>
+		<PropertyValue name="ScriptDocsTimeout">10000</PropertyValue>
+		<PropertyValue name="SecureSourceLocalDirectory"/>
+		<PropertyValue name="SetValueTimeout">15000</PropertyValue>
+		<PropertyValue name="ShowDisassemblyWhenNoSource">1</PropertyValue>
+		<PropertyValue name="ShowExternalCode">0</PropertyValue>
+		<PropertyValue name="ShowNoSymbolsDialog">1</PropertyValue>
+		<PropertyValue name="ShowNonPublicMembers">1</PropertyValue>
+		<PropertyValue name="ShowNonprintableCharsAsGlyphs">0</PropertyValue>
+		<PropertyValue name="ShowProcessesFromAllSessions">0</PropertyValue>
+		<PropertyValue name="ShowRawStructures">0</PropertyValue>
+		<PropertyValue name="ShowSourceServerDiagnostics">0</PropertyValue>
+		<PropertyValue name="ShowSystemProcesses">0</PropertyValue>
+		<PropertyValue name="SourceServerExtractToDirectory"/>
+		<PropertyValue name="SourceStepUnit">0</PropertyValue>
+		<PropertyValue name="StepIntoOnRestart">0</PropertyValue>
+		<PropertyValue name="StopAllProcesses">1</PropertyValue>
+		<PropertyValue name="StopOnExceptionAcrossAppDomain">0</PropertyValue>
+		<PropertyValue name="StopOnExceptionCrossingManagedBoundary">0</PropertyValue>
+		<PropertyValue name="SymbolCacheDir"/>
+		<PropertyValue name="SymbolPath"/>
+		<PropertyValue name="SymbolPathState"/>
+		<PropertyValue name="UseCodeSense">1</PropertyValue>
+		<PropertyValue name="UseDocumentChecksum">1</PropertyValue>
+		<PropertyValue name="UseExceptionHelper">1</PropertyValue>
+		<PropertyValue name="UseSourceServer">0</PropertyValue>
+		<PropertyValue name="UserSpecifiedEngines">0</PropertyValue>
+		<PropertyValue name="VariableWindowIcons">1</PropertyValue>
+		<PropertyValue name="VariableWindowMaxSupportedChildren">1000000</PropertyValue>
+		<PropertyValue name="VariableWindowPromptOnLargeExpansion">1</PropertyValue>
+		<PropertyValue name="WarnIfNoUserCodeOnLaunch">1</PropertyValue>
+	</Category>
+	<Category name="Environment_Group" RegisteredName="Environment_Group">
+		<Category name="Environment_Aliases" Category="{AD334E74-368A-4c46-9AF8-F53ABF0775F2}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_Aliases" PackageName="Visual Studio Environment Package">
+			<Aliases Version="1.0">
+				<Alias Name="immed" Definition="Tools.ImmediateMode"/>
+				<Alias Name="props" Definition="View.PropertiesWindow"/>
+				<Alias Name="memory1" Definition="Debug.Memory1"/>
+				<Alias Name="memory2" Definition="Debug.Memory2"/>
+				<Alias Name="memory3" Definition="Debug.Memory3"/>
+				<Alias Name="Lcase" Definition="Edit.MakeLowercase"/>
+				<Alias Name="memory4" Definition="Debug.Memory4"/>
+				<Alias Name="locals" Definition="Debug.Locals"/>
+				<Alias Name="kb" Definition="Debug.ListCallStack"/>
+				<Alias Name="da" Definition="Debug.ListMemory /Ansi"/>
+				<Alias Name="db" Definition="Debug.ListMemory /Format:OneByte"/>
+				<Alias Name="DelEOL" Definition="Edit.DeleteToEOL"/>
+				<Alias Name="dc" Definition="Debug.ListMemory /Format:FourBytes /Ansi"/>
+				<Alias Name="dd" Definition="Debug.ListMemory /Format:FourBytes"/>
+				<Alias Name="df" Definition="Debug.ListMemory /Format:Float"/>
+				<Alias Name="WordWrap" Definition="Edit.ToggleWordWrap"/>
+				<Alias Name="AddProj" Definition="File.AddNewProject"/>
+				<Alias Name="dq" Definition="Debug.ListMemory /Format:EightBytes"/>
+				<Alias Name="du" Definition="Debug.ListMemory /Unicode"/>
+				<Alias Name="designer" Definition="View.ViewDesigner"/>
+				<Alias Name="ListMembers" Definition="Edit.ListMembers"/>
+				<Alias Name="code" Definition="View.ViewCode"/>
+				<Alias Name="ParamInfo" Definition="Edit.ParameterInfo"/>
+				<Alias Name="DelHSp" Definition="Edit.DeleteHorizontalWhiteSpace"/>
+				<Alias Name="TileH" Definition="Window.TileHorizontally"/>
+				<Alias Name="save" Definition="File.SaveSelectedItems"/>
+				<Alias Name="?" Definition="Debug.Print"/>
+				<Alias Name="callstack" Definition="Debug.CallStack"/>
+				<Alias Name="open" Definition="File.OpenFile"/>
+				<Alias Name="TileV" Definition="Window.TileVertically"/>
+				<Alias Name="OutlineDefs" Definition="Edit.CollapsetoDefinitions"/>
+				<Alias Name="CloseAll" Definition="Window.CloseAllDocuments"/>
+				<Alias Name="ToggleBook" Definition="Edit.ToggleBookmark"/>
+				<Alias Name="InsertFile" Definition="Edit.InsertFileAsText"/>
+				<Alias Name="autos" Definition="Debug.Autos"/>
+				<Alias Name="SaveAll" Definition="File.SaveAll"/>
+				<Alias Name="new" Definition="File.NewFile"/>
+				<Alias Name="d" Definition="Debug.ListMemory"/>
+				<Alias Name="rtc" Definition="Debug.RunToCursor"/>
+				<Alias Name="navigate" Definition="View.WebBrowser"/>
+				<Alias Name="g" Definition="Debug.Start"/>
+				<Alias Name="k" Definition="Debug.ListCallStack"/>
+				<Alias Name="format" Definition="Edit.FormatSelection"/>
+				<Alias Name="n" Definition="Debug.SetRadix"/>
+				<Alias Name="p" Definition="Debug.StepOver"/>
+				<Alias Name="q" Definition="Debug.StopDebugging"/>
+				<Alias Name="r" Definition="Debug.ListRegisters"/>
+				<Alias Name="t" Definition="Debug.StepInto"/>
+				<Alias Name="~*kb" Definition="Debug.ListCallStack /AllThreads"/>
+				<Alias Name="u" Definition="Debug.ListDisassembly"/>
+				<Alias Name="nf" Definition="File.NewFile"/>
+				<Alias Name="registers" Definition="Debug.Registers"/>
+				<Alias Name="LineCut" Definition="Edit.LineCut"/>
+				<Alias Name="memory" Definition="memory1"/>
+				<Alias Name="|" Definition="Debug.ListProcesses"/>
+				<Alias Name="~" Definition="Debug.ListThreads"/>
+				<Alias Name="np" Definition="File.NewProject"/>
+				<Alias Name="DelBOL" Definition="Edit.DeleteToBOL"/>
+				<Alias Name="~*k" Definition="Debug.ListCallStack /AllThreads"/>
+				<Alias Name="NextBook" Definition="Edit.NextBookmark"/>
+				<Alias Name="TaskList" Definition="View.TaskList"/>
+				<Alias Name="Ucase" Definition="Edit.MakeUppercase"/>
+				<Alias Name="NewProj" Definition="File.NewProject"/>
+				<Alias Name="Untabify" Definition="Edit.UntabifySelectedLines"/>
+				<Alias Name="GotoBrace" Definition="Edit.GotoBrace"/>
+				<Alias Name="cls" Definition="Edit.ClearAll"/>
+				<Alias Name="shell" Definition="Tools.Shell"/>
+				<Alias Name="of" Definition="File.OpenFile"/>
+				<Alias Name="log" Definition="Tools.LogCommandWindowOutput"/>
+				<Alias Name="print" Definition="File.Print"/>
+				<Alias Name="op" Definition="File.OpenProject"/>
+				<Alias Name="eval" Definition="Debug.EvaluateStatement"/>
+				<Alias Name="alias" Definition="Tools.Alias"/>
+				<Alias Name="watch" Definition="Debug.Watch"/>
+				<Alias Name="cmd" Definition="View.CommandWindow"/>
+				<Alias Name="help" Definition="Help.F1Help"/>
+				<Alias Name="GotoLn" Definition="Edit.GoTo"/>
+				<Alias Name="disasm" Definition="Debug.Disassembly"/>
+				<Alias Name="redo" Definition="Edit.Redo"/>
+				<Alias Name="undo" Definition="Edit.Undo"/>
+				<Alias Name="tabify" Definition="Edit.TabifySelectedLines"/>
+				<Alias Name="LineDel" Definition="Edit.LineDelete"/>
+				<Alias Name="StopOutlining" Definition="Edit.CollapsetoDefinitions"/>
+				<Alias Name="pr" Definition="Debug.StepOut"/>
+				<Alias Name="SaveAs" Definition="File.SaveSelectedItemsAs"/>
+				<Alias Name="FullScreen" Definition="View.FullScreen"/>
+				<Alias Name="nav" Definition="navigate"/>
+				<Alias Name="SwapAnchor" Definition="Edit.SwapAnchor"/>
+				<Alias Name="exit" Definition="File.Exit"/>
+				<Alias Name="threads" Definition="Debug.Threads"/>
+				<Alias Name="PrevBook" Definition="Edit.PreviousBookmark"/>
+				<Alias Name="close" Definition="File.Close"/>
+				<Alias Name="toolbox" Definition="View.Toolbox"/>
+				<Alias Name="bl" Definition="Debug.Breakpoints"/>
+				<Alias Name="bp" Definition="Debug.ToggleBreakpoint"/>
+				<Alias Name="??" Definition="Debug.QuickWatch"/>
+				<Alias Name="StopFind" Definition="Edit.FindInFiles /stop"/>
+				<Alias Name="ClearBook" Definition="Edit.ClearBookmarks"/>
+			</Aliases>
+		</Category>
+		<Category name="Environment_CallBrowser" Category="{50B05A5D-9174-48eb-851A-B1C616A0B43D}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_CallBrowser" PackageName="Visual Studio Environment Package">
+			<PropertyValue name="CallBrowserShowFullyQualifiedNames">true</PropertyValue>
+			<PropertyValue name="CallBrowserSortAlphabetically">true</PropertyValue>
+			<PropertyValue name="CallBrowserSortByAccess">false</PropertyValue>
+		</Category>
+		<Category name="Environment_ClassView" Category="{40AF29AB-4C5B-412A-9CE8-465C4FCFE41D}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_ClassView" PackageName="Visual Studio Environment Package">
+			<PropertyValue name="ClassViewMembersShowInherited">false</PropertyValue>
+			<PropertyValue name="ClassViewMembersSortAlphabetically">false</PropertyValue>
+			<PropertyValue name="ClassViewMembersSortByAccess">false</PropertyValue>
+			<PropertyValue name="ClassViewMembersSortByType">true</PropertyValue>
+			<PropertyValue name="ClassViewMembersViewOther">true</PropertyValue>
+			<PropertyValue name="ClassViewMembersViewPrivate">true</PropertyValue>
+			<PropertyValue name="ClassViewMembersViewProtected">true</PropertyValue>
+			<PropertyValue name="ClassViewMembersViewPublic">true</PropertyValue>
+			<PropertyValue name="ClassViewSearchResultsGroupByType">false</PropertyValue>
+			<PropertyValue name="ClassViewSearchResultsSortAlphabetically">false</PropertyValue>
+			<PropertyValue name="ClassViewSearchResultsSortByAccess">false</PropertyValue>
+			<PropertyValue name="ClassViewSearchResultsSortByBestMatch">true</PropertyValue>
+			<PropertyValue name="ClassViewSearchResultsSortByType">false</PropertyValue>
+			<PropertyValue name="ClassViewShowBaseTypes">true</PropertyValue>
+			<PropertyValue name="ClassViewShowDerivedTypes">true</PropertyValue>
+			<PropertyValue name="ClassViewShowHiddenTypesAndMembers">true</PropertyValue>
+			<PropertyValue name="ClassViewShowProjectReferences">true</PropertyValue>
+			<PropertyValue name="ClassViewTypesGroupByType">false</PropertyValue>
+			<PropertyValue name="ClassViewTypesSortAlphabetically">true</PropertyValue>
+			<PropertyValue name="ClassViewTypesSortByAccess">false</PropertyValue>
+			<PropertyValue name="ClassViewTypesSortByType">false</PropertyValue>
+		</Category>
+		<Category name="Environment_CommandBars" Category="{B9D9C123-B500-4202-B887-57C829CBD08F}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_CommandBars" PackageName="Visual Studio Environment Package">
+			<CommandBars Version="05072811">
+				<DefaultCustomizations/>
+				<UserCustomizations/>
+			</CommandBars>
+			<PropertyValue name="ShowLargeButtons">false</PropertyValue>
+			<PropertyValue name="ShowScreenTipShortcutKeys">false</PropertyValue>
+			<PropertyValue name="ShowScreenTips">true</PropertyValue>
+		</Category>
+		<Category name="Environment_DefaultEditors" Category="{68161AEE-BCA8-4214-B2E4-7875263E49C5}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_DefaultEditors" PackageName="Visual Studio Environment Package">
+			<PropertyValue name="NumberOfDefaultEditors">0</PropertyValue>
+			<PropertyValue name="NumberOfMappings">0</PropertyValue>
+		</Category>
+		<Category name="Environment_ErrorList" Category="{68897077-DF64-4628-9BD4-025923684F2F}" Package="{4A9B7E50-AA16-11d0-A8C5-00A0C921A4D2}" RegisteredName="Environment_ErrorList" PackageName="Visual Studio Task List Package">
+			<PropertyValue name="ActiveProvider">{7E5BB8D2-57E5-4FA9-9542-3870395C16A1}</PropertyValue>
+			<PropertyValue name="ErrorListShowsErrors">true</PropertyValue>
+			<PropertyValue name="ErrorListShowsMessages">true</PropertyValue>
+			<PropertyValue name="ErrorListShowsWarnings">true</PropertyValue>
+			<PropertyValue name="Version">1</PropertyValue>
+			<TaskProviders>
+				<Provider GUID="{7E5BB8D2-57E5-4FA9-9542-3870395C16A1}">
+					<Columns>
+						<Column Name="Priority" Width="20" Visibility="Invisible" SortPriority="-1" SortDirection="Up"/>
+						<Column Name="Bitmap" Width="17" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
+						<Column Name="ProviderKnowsOrder" Width="19" Visibility="Visible" SortPriority="0" SortDirection="Up"/>
+						<Column Name="Checked" Width="28" Visibility="Invisible" SortPriority="-1" SortDirection="Up"/>
+						<Column Name="Description" Width="752" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
+						<Column Name="File" Width="120" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
+						<Column Name="Line" Width="70" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
+						<Column Name="Column" Width="70" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
+						<Column Name="Project" Width="120" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
+						<Column Name="Category" Width="0" Visibility="Invisible" SortPriority="-1" SortDirection="Up"/>
+						<Column Name="Subcategory" Width="0" Visibility="Invisible" SortPriority="-1" SortDirection="Up"/>
+					</Columns>
+				</Provider>
+			</TaskProviders>
+		</Category>
+		<Category name="Environment_Expansions" Category="{0B9A10B2-C0D0-4a6a-8353-115E9CACF34A}" Package="{F5E7E720-1401-11d1-883B-0000F87579D2}" RegisteredName="Environment_Expansions" PackageName="Text Management Package">
+			<Expansions Default="true" Version="1.0"/>
+		</Category>
+		<Category name="Environment_ExternalTools" Category="{E8FAE9E8-FBA2-4474-B134-AB0FFCFB291D}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_ExternalTools" PackageName="Visual Studio Environment Package">
+			<PropertyValue name="Dot&amp;fuscator Community Edition.Arguments"/>
+			<PropertyValue name="Dot&amp;fuscator Community Edition.CloseOnExit">0</PropertyValue>
+			<PropertyValue name="Dot&amp;fuscator Community Edition.Command">%VSSPV_VS_INSTALL_DIRECTORY%\Application\PreEmptive Solutions\Dotfuscator Community Edition\Dotfuscator.exe</PropertyValue>
+			<PropertyValue name="Dot&amp;fuscator Community Edition.InitialDirectory">$(TargetDir)</PropertyValue>
+			<PropertyValue name="Dot&amp;fuscator Community Edition.IsGUIapp">0</PropertyValue>
+			<PropertyValue name="Dot&amp;fuscator Community Edition.PromptForArguments">0</PropertyValue>
+			<PropertyValue name="Dot&amp;fuscator Community Edition.SaveAllDocs">-1</PropertyValue>
+			<PropertyValue name="Dot&amp;fuscator Community Edition.SourceKeyName">Dot&amp;fuscator Community Edition</PropertyValue>
+			<PropertyValue name="Dot&amp;fuscator Community Edition.Unicode">0</PropertyValue>
+			<PropertyValue name="Dot&amp;fuscator Community Edition.UseOutputWindow">-1</PropertyValue>
+			<PropertyValue name="Dot&amp;fuscator Community Edition.UseTaskList">0</PropertyValue>
+			<PropertyValue name="ToolNames">Dot&amp;fuscator Community Edition</PropertyValue>
+		</Category>
+		<Category name="Environment_FindSymbol" Category="{C93260BC-0C07-484a-8188-6F4763BD7FD4}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_FindSymbol" PackageName="Visual Studio Environment Package">
+			<PropertyValue name="FindOptionsIsExpanded">false</PropertyValue>
+			<PropertyValue name="LookinReferencesIsChecked">true</PropertyValue>
+			<PropertyValue name="MatchCaseIsChecked">false</PropertyValue>
+			<PropertyValue name="SelectedScope">{B1BA9461-FC54-45B3-A484-CB6DD0B95C94}</PropertyValue>
+			<PropertyValue name="Type">2</PropertyValue>
+		</Category>
+		<Category name="Environment_FontsAndColors" Category="{1EDA5DD4-927A-43a7-810E-7FD247D0DA1D}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_FontsAndColors" PackageName="Visual Studio Environment Package">
+			<FontsAndColors Version="2.0">
+				<Categories/>
+			</FontsAndColors>
+			<PropertyValue name="Version">2</PropertyValue>
+		</Category>
+		<Category name="Environment_KeyBindings" Category="{F09035F1-80D2-4312-8EC4-4D354A4BCB4C}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_KeyBindings" PackageName="Visual Studio Environment Package">
+			<KeyboardShortcuts>
+				<DefaultShortcuts/>
+				<ScopeDefinitions>
+					<Scope Name="Class Diagram" ID="{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}"/>
+					<Scope Name="Deployment Diagram" ID="{D056D361-43FC-4DDD-8559-0D40EB8C77D7}"/>
+					<Scope Name="Logical Datacenter Diagram" ID="{222AC579-87F1-44CE-AE8C-B7D95931ED9F}"/>
+					<Scope Name="Application Connection Diagram" ID="{5A1FF380-5684-4D47-8E04-BDED2D53DCA4}"/>
+					<Scope Name="TOC Editor" ID="{75DC5041-469F-11D3-8F04-00C04F5E0C38}"/>
+					<Scope Name="VC Accelerator Editor" ID="{EB56D0B5-BEE7-4D0C-8BE6-88A8ED256695}"/>
+					<Scope Name="VC String Editor" ID="{58442DA9-10DA-4AA9-A2AF-96E4D481379B}"/>
+					<Scope Name="VC Dialog Editor" ID="{543E0C02-8C85-4E43-933A-5EF320E3431F}"/>
+					<Scope Name="Managed Resources Editor" ID="{FEA4DCC9-3645-44CD-92E7-84B55A16465C}"/>
+					<Scope Name="XML Editor Data View" ID="{F482F8AF-1E66-4760-919E-964707265994}"/>
+					<Scope Name="WebBrowser" ID="{E8B06F41-6D01-11D2-AA7D-00C04F990343}"/>
+					<Scope Name="XML Editor Schema View" ID="{E6631B5B-2EAB-41E8-82FD-6469645C76C9}"/>
+					<Scope Name="Database Designer" ID="{CFF78A9B-78A3-45A3-9142-0267AFC261FA}"/>
+					<Scope Name="HTML Editor Source View" ID="{CB3FCFEB-03DF-11D1-81D2-00A0C91BBEE3}"/>
+					<Scope Name="HTML Editor Design View" ID="{CB3FCFEA-03DF-11D1-81D2-00A0C91BBEE3}"/>
+					<Scope Name="Report Designer" ID="{CB3675B8-701E-4F56-9167-2714E167FF3F}"/>
+					<Scope Name="VC Image Editor" ID="{C0BA70ED-069E-412B-9C06-7442E28A11B9}"/>
+					<Scope Name="Windows Forms Designer" ID="{BA09E2AF-9DF2-4068-B2F0-4C7E5CC19E2F}"/>
+					<Scope Name="View Designer" ID="{B968E165-98E0-41F0-8FBE-A8ED1D246A90}"/>
+					<Scope Name="DataSet Editor" ID="{B334A759-F450-40A5-BE2A-65937BCD5415}"/>
+					<Scope Name="Query Designer" ID="{B2C40B32-3A37-4CA9-97B9-FA44248B69FF}"/>
+					<Scope Name="CSS Source Editor" ID="{A764E89A-518D-11D2-9A89-00C04F79EFC3}"/>
+					<Scope Name="Text Editor" ID="{8B382828-6202-11D1-8870-0000F87579D2}"/>
+					<Scope Name="Settings Designer" ID="{6D2695F9-5365-4A78-89ED-F205C045BFE6}"/>
+					<Scope Name="Global" ID="{5EFC7975-14BC-11CF-9B2B-00AA00573819}"/>
+					<Scope Name="HTML Editor Code View" ID="{4C01CBEE-FB8C-4ED0-8EC0-68348C52822E}"/>
+					<Scope Name="Table Designer" ID="{4194FEE5-6777-419F-A5FC-47A536DF1BDB}"/>
+				</ScopeDefinitions>
+				<ShortcutsScheme></ShortcutsScheme>
+				<UserShortcuts/></KeyboardShortcuts>
+			<Version>8.0.0.0</Version>
+		</Category>
+		<Category name="Environment_NewProjectDialogPreferredLanguage" Category="{77E22C0C-9F4A-4bfb-AD3A-3F3F4711E9ED}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_NewProjectDialogPreferredLanguage" PackageName="Visual Studio Environment Package">
+			<PropertyValue name="DefaultToLargeIconView">false</PropertyValue>
+			<PropertyValue name="HasNewProjectDialogPreferredLanguage">true</PropertyValue>
+			<PropertyValue name="NewProjectDialogPreferredLanguage">VJ#</PropertyValue>
+		</Category>
+		<Category name="Environment_ObjectBrowser" Category="{D98D784D-88BF-4EBF-B039-C146EC14F472}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_ObjectBrowser" PackageName="Visual Studio Environment Package">
+			<PropertyValue name="DefaultPresentationLanguage">VJ#</PropertyValue>
+			<PropertyValue name="ObjectBrowserMembersShowInherited">0</PropertyValue>
+			<PropertyValue name="ObjectBrowserMembersSortAlphabetically">0</PropertyValue>
+			<PropertyValue name="ObjectBrowserMembersSortByAccess">0</PropertyValue>
+			<PropertyValue name="ObjectBrowserMembersSortByType">-1</PropertyValue>
+			<PropertyValue name="ObjectBrowserMembersViewOther">true</PropertyValue>
+			<PropertyValue name="ObjectBrowserMembersViewPrivate">-1</PropertyValue>
+			<PropertyValue name="ObjectBrowserMembersViewProtected">-1</PropertyValue>
+			<PropertyValue name="ObjectBrowserMembersViewPublic">-1</PropertyValue>
+			<PropertyValue name="ObjectBrowserScope">{00000000-0000-0000-0000-000000000000}</PropertyValue>
+			<PropertyValue name="ObjectBrowserSearchResultsGroupByType">false</PropertyValue>
+			<PropertyValue name="ObjectBrowserSearchResultsSortAlphabetically">false</PropertyValue>
+			<PropertyValue name="ObjectBrowserSearchResultsSortByAccess">false</PropertyValue>
+			<PropertyValue name="ObjectBrowserSearchResultsSortByBestMatch">true</PropertyValue>
+			<PropertyValue name="ObjectBrowserSearchResultsSortByType">false</PropertyValue>
+			<PropertyValue name="ObjectBrowserShowBaseTypes">0</PropertyValue>
+			<PropertyValue name="ObjectBrowserShowDerivedTypes">0</PropertyValue>
+			<PropertyValue name="ObjectBrowserShowHiddenTypesAndMembers">0</PropertyValue>
+			<PropertyValue name="ObjectBrowserTypesGroupByType">0</PropertyValue>
+			<PropertyValue name="ObjectBrowserTypesSortAlphabetically">-1</PropertyValue>
+			<PropertyValue name="ObjectBrowserTypesSortByAccess">0</PropertyValue>
+			<PropertyValue name="ObjectBrowserTypesSortByType">0</PropertyValue>
+			<PropertyValue name="ObjectBrowserViewNamespaces">0</PropertyValue>
+		</Category>
+		<Category name="Environment_OutputWindow" Category="{07C6CD04-100B-4f3e-BA93-DD1363E8D8E3}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_OutputWindow" PackageName="Visual Studio Environment Package">
+			<PropertyValue name="OutputWindowWordWrap">false</PropertyValue>
+		</Category>
+		<Category name="Environment_PropertiesWindow" Category="{731a3cc7-de5e-49ca-9115-9a03e46624b0}" Package="{7494682b-37a0-11d2-a273-00c04f8ef4ff}" RegisteredName="Environment_PropertiesWindow" PackageName="Windows Forms Designer Package">
+			<PropertyValue name="PbrsAlpha">0</PropertyValue>
+			<PropertyValue name="PbrsShowDesc">1</PropertyValue>
+		</Category>
+		<Category name="Environment_SimplifiedToolsOptions" Category="{13BEDEE6-9051-4809-B9E3-2EEC749EB15A}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_SimplifiedToolsOptions" PackageName="Visual Studio Environment Package">
+			<PropertyValue name="ShowFlatList">false</PropertyValue>
+			<PropertyValue name="ShowingAllPages">false</PropertyValue>
+			<PropertyValue name="SupportsSimpleToolsOptions">false</PropertyValue>
+		</Category>
+		<Category name="Environment_StartPage" Category="{255FE6D3-A0AE-4076-A509-D581B2BE4F9E}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_StartPage" PackageName="Visual Studio Environment Package">
+			<!-- What's new in Visual J# 2005? -->
+			<!-- Create your first application -->
+			<!-- Use a Starter Kit -->
+			<!-- How Do I ... ? -->
+			<!-- Using Visual J# -->
+			<!-- Connect With the Community -->
+			<PropertyValue name="CommandCLSID1">{D230BDDD-1BE5-49c9-810D-EDF1EAF8DEB8}</PropertyValue>
+			<PropertyValue name="CommandCLSID2">{D230BDDD-1BE5-49c9-810D-EDF1EAF8DEB8}</PropertyValue>
+			<PropertyValue name="CommandCLSID3">{D230BDDD-1BE5-49c9-810D-EDF1EAF8DEB8}</PropertyValue>
+			<PropertyValue name="CommandCLSID4">{D230BDDD-1BE5-49c9-810D-EDF1EAF8DEB8}</PropertyValue>
+			<PropertyValue name="CommandCLSID5">{D230BDDD-1BE5-49c9-810D-EDF1EAF8DEB8}</PropertyValue>
+			<PropertyValue name="CommandCLSID6">{D230BDDD-1BE5-49c9-810D-EDF1EAF8DEB8}</PropertyValue>
+			<PropertyValue name="CommandID1">20480</PropertyValue>
+			<PropertyValue name="CommandID2">20481</PropertyValue>
+			<PropertyValue name="CommandID3">20482</PropertyValue>
+			<PropertyValue name="CommandID4">20483</PropertyValue>
+			<PropertyValue name="CommandID5">20484</PropertyValue>
+			<PropertyValue name="CommandID6">20485</PropertyValue>
+			<PropertyValue name="MRUCommand1GUID">{5EFC7975-14BC-11CF-9B2B-00AA00573819}</PropertyValue>
+			<PropertyValue name="MRUCommand1ID">216</PropertyValue>
+			<PropertyValue name="MRUCommand2GUID">{5EFC7975-14BC-11CF-9B2B-00AA00573819}</PropertyValue>
+			<PropertyValue name="MRUCommand2ID">321</PropertyValue>
+			<PropertyValue name="MRUCommand3GUID">{C7547851-4E3A-4E5B-9173-FA6E9C8BD82C}</PropertyValue>
+			<PropertyValue name="MRUCommand3ID">43</PropertyValue>
+			<PropertyValue name="MRUCommand4GUID">{C7547851-4E3A-4E5B-9173-FA6E9C8BD82C}</PropertyValue>
+			<PropertyValue name="MRUCommand4ID">44</PropertyValue>
+		</Category>
+		<Category name="Environment_TaskList" Category="{8EA81A4E-FDB5-4ee8-BD1A-22ECBF73B7CD}" Package="{4A9B7E50-AA16-11d0-A8C5-00A0C921A4D2}" RegisteredName="Environment_TaskList" PackageName="Visual Studio Environment Package">
+			<PropertyValue name="ActiveProvider">{1593EE17-2E95-41F0-8DC6-A0BFE991388F}</PropertyValue>
+			<PropertyValue name="Version">1</PropertyValue>
+			<TaskProviders>
+				<Provider GUID="{1593EE17-2E95-41F0-8DC6-A0BFE991388F}">
+					<Columns>
+						<Column Name="Priority" Width="20" Visibility="Visible" SortPriority="0" SortDirection="Up"/>
+						<Column Name="Checked" Width="28" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
+						<Column Name="Description" Width="1120" Visibility="Visible" SortPriority="1" SortDirection="Up"/>
+					</Columns>
+				</Provider>
+				<Provider GUID="{18267819-C975-4292-8741-255590F76EB5}">
+					<Columns>
+						<Column Name="Priority" Width="20" Visibility="Visible" SortPriority="0" SortDirection="Up"/>
+						<Column Name="Bitmap" Width="17" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
+						<Column Name="ProviderKnowsOrder" Width="17" Visibility="Invisible" SortPriority="2" SortDirection="Up"/>
+						<Column Name="Checked" Width="28" Visibility="Visible" SortPriority="-1" SortDirection="Up"/>
+						<Column Name="Description" Width="250" Visibility="Visible" SortPriority="7" SortDirection="Up"/>
+						<Column Name="File" Width="120" Visibility="Visible" SortPriority="4" SortDirection="Up"/>
+						<Column Name="Line" Width="70" Visibility="Visible" SortPriority="5" SortDirection="Up"/>
+						<Column Name="Column" Width="70" Visibility="Invisible" SortPriority="6" SortDirection="Up"/>
+						<Column Name="Category" Width="0" Visibility="Invisible" SortPriority="1" SortDirection="Up"/>
+						<Column Name="Subcategory" Width="0" Visibility="Invisible" SortPriority="3" SortDirection="Up"/>
+					</Columns>
+				</Provider>
+				<Provider GUID="{5A2D2729-ADFF-4A2E-A44F-55EBBF5DF64B}">
+					<Columns>
+						<Column Name="Priority" Width="20" Visibility="Visible" SortPriority="0" SortDirection="Up"/>
+						<Column Name="ProviderKnowsOrder" Width="17" Visibility="Invisible" SortPriority="2" SortDirection="Up"/>
+						<Column Name="Description" Width="250" Visibility="Visible" SortPriority="7" SortDirection="Up"/>
+						<Column Name="File" Width="120" Visibility="Visible" SortPriority="4" SortDirection="Up"/>
+						<Column Name="Line" Width="70" Visibility="Visible" SortPriority="5" SortDirection="Up"/>
+						<Column Name="Column" Width="70" Visibility="Invisible" SortPriority="6" SortDirection="Up"/>
+						<Column Name="Category" Width="0" Visibility="Invisible" SortPriority="1" SortDirection="Up"/>
+						<Column Name="Subcategory" Width="0" Visibility="Invisible" SortPriority="3" SortDirection="Up"/>
+					</Columns>
+				</Provider>
+			</TaskProviders>
+		</Category>
+		<Category name="Environment_Toolbox" Category="{481999F2-7479-4e03-83D5-BE808BA142DF}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_Toolbox" PackageName="Visual Studio Environment Package">
+			<PropertyValue name="DeletedItemCount">0</PropertyValue>
+			<PropertyValue name="DeletedTabCount">0</PropertyValue>
+			<PropertyValue name="ItemCount">0</PropertyValue>
+			<PropertyValue name="ShowAllTabs">false</PropertyValue>
+			<PropertyValue name="TabCount">0</PropertyValue>
+			<PropertyValue name="Version">1</PropertyValue>
+		</Category>
+		<Category name="Environment_UnifiedFind" Category="{DF00ADDF-C14C-4ffd-9325-634FD605850B}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_UnifiedFind" PackageName="Visual Studio Environment Package">
+			<PropertyValue name="Document Options">MatchCase=0 WholeWord=0 Hidden=1 Up=0 Selection=0 Block=0 KeepCase=0 SubFolders=0 KeepOpen=0 NameOnly=0 Plain Document Find</PropertyValue>
+			<PropertyValue name="FiF Options">MatchCase=0 WholeWord=0 Hidden=0 Up=0 Selection=0 Block=0 KeepCase=0 SubFolders=1 KeepOpen=0 NameOnly=0 Plain Files Find</PropertyValue>
+			<PropertyValue name="FindTextFromEditor">1</PropertyValue>
+			<PropertyValue name="HideFindAfterMatchFound">0</PropertyValue>
+			<PropertyValue name="HitReplaced">1</PropertyValue>
+			<PropertyValue name="In Files Pane Display Options">0</PropertyValue>
+			<PropertyValue name="NumberOfScopes">0</PropertyValue>
+			<PropertyValue name="Options">MatchCase=0 WholeWord=0 Hidden=0 Up=0 Selection=0 Block=0 KeepCase=0 SubFolders=1 KeepOpen=0 NameOnly=0 Plain Files Find</PropertyValue>
+			<PropertyValue name="Result list">1</PropertyValue>
+			<PropertyValue name="ShowAllReplacementsNotAllowed">1</PropertyValue>
+			<PropertyValue name="ShowCancel">1</PropertyValue>
+			<PropertyValue name="ShowCancelBeforeReplacementsMade">1</PropertyValue>
+			<PropertyValue name="ShowCancelEntireReplaceAfterCancellingSCC">1</PropertyValue>
+			<PropertyValue name="ShowEndOfSearch">1</PropertyValue>
+			<PropertyValue name="ShowFindStart">1</PropertyValue>
+			<PropertyValue name="ShowNoFound">1</PropertyValue>
+			<PropertyValue name="ShowNoMore">1</PropertyValue>
+			<PropertyValue name="ShowReplaceInFilesWarning">1</PropertyValue>
+			<PropertyValue name="ShowSomeReplacementsNotAllowed">1</PropertyValue>
+			<PropertyValue name="Syntax">Regex</PropertyValue>
+		</Category>
+		<Category name="Environment_WindowLayout" Category="{eb4ba109-a9db-4445-bd09-e7604bcdce84}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_WindowLayout"><PropertyValue name="MDIMode">1</PropertyValue><PropertyValue name="WindowLayout">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</PropertyValue><PropertyValue name="WindowLayoutVersion">30604</PropertyValue><PropertyValue name="WindowLayout_Length">28640</PropertyValue></Category></Category>
+	<Category name="Environment_Help" RegisteredName="Environment_Help">
+		<Category name="Environment_Help_Favorites" Category="{B63D51EF-4023-4f89-9DE3-14E8EC36132F}" Package="{4A791146-19E4-11D3-B86B-00C04F79F802}" RegisteredName="Environment_Help_Favorites" PackageName="Visual Studio Help Package">
+			<FavoriteSearches/>
+			<FavoriteTopics/>
+		</Category>
+		<Category name="Environment_Help_IndexFilter" Category="{A69C6FF2-EC60-4fc8-BB7E-F77AB60938B4}" Package="{4A791146-19E4-11D3-B86B-00C04F79F802}" RegisteredName="Environment_Help_IndexFilter" PackageName="Visual Studio Help Package">
+			<PropertyValue name="Collection">ms-help://MS.VSCC.v80</PropertyValue>
+			<PropertyValue name="Filter">JSharp</PropertyValue>
+		</Category>
+		<Category name="Environment_Help_Options" Category="{C7C72A03-D951-428f-9F0D-D29D9E038FAA}" Package="{4A791146-19E4-11D3-B86B-00C04F79F802}" RegisteredName="Environment_Help_Options" PackageName="Visual Studio Help Package">
+			<PropertyValue name="AlsoShowEnglishTopics">true</PropertyValue>
+			<PropertyValue name="CurrentChannel">VJSharpHowDoI80</PropertyValue>
+			<PropertyValue name="DeveloperCenter">http://go.microsoft.com/fwlink/?LinkId=47809&amp;clcid=%VSSPV_LCID_HEX%</PropertyValue>
+			<PropertyValue name="External">true</PropertyValue>
+			<PropertyValue name="HighlightTerms">True</PropertyValue>
+			<PropertyValue name="ItemsPerPage">20</PropertyValue>
+			<PropertyValue name="LocalSearchPartialMatches">true</PropertyValue>
+			<PropertyValue name="PrimaryLanguage">9</PropertyValue>
+			<PropertyValue name="ProfileDevLanguages">JSharp;VJ#</PropertyValue>
+			<PropertyValue name="ReuseTopic">true</PropertyValue>
+			<PropertyValue name="SearchProviderPreferences">&lt;Provider Type="SearchProviderTypeLocalHelp" Enabled="True" /&gt;&lt;Provider Type="SearchProviderTypeMsdnOnline" Enabled="True" /&gt;&lt;Provider Type="SearchProviderTypeCodeWise" Enabled="True" /&gt;&lt;Provider Type="SearchProviderTypeQuestions" Enabled="True" /&gt;</PropertyValue>
+			<PropertyValue name="ShowAbstract">True</PropertyValue>
+			<PropertyValue name="UseLocalHelpF1">true</PropertyValue>
+			<PropertyValue name="UseMSDNOnlineF1">true</PropertyValue>
+			<PropertyValue name="UseMSDNOnlineF1First">true</PropertyValue>
+			<PropertyValue name="UseOnlineContent">true</PropertyValue>
+		</Category>
+		<Category name="Environment_Help_SearchFilter" Category="{C59B9E28-E89E-4028-A3EF-50FA6DF01120}" Package="{4A791146-19E4-11D3-B86B-00C04F79F802}" RegisteredName="Environment_Help_SearchFilter" PackageName="Visual Studio Help Package">
+			<CurrentSearchFilter>
+				<SearchFilterState>
+					<Filter Id="Language" Default="False">
+						<Values>
+							<Value Id="J#" Checked="True"/>
+						</Values>
+					</Filter>
+					<Filter Id="Technology" Default="True">
+					</Filter>
+					<Filter Id="TopicTypes" Default="True">
+					</Filter>
+				</SearchFilterState>
+			</CurrentSearchFilter>
+		</Category>
+	</Category>
+	<Category name="HTML Tag Specific" Category="{7583bb73-a453-40e8-8951-b6986ddb1d9b}" Package="{1B437D20-F8FE-11D2-A6AE-00104BCC7269}" RegisteredName="HTML Tag Specific" PackageName="Visual Studio HTM Editor Package"/>
+	<Category name="Performance" Category="{7A697B67-8D8F-43c2-A11C-57568FE3F513}" Package="{f4a63b2a-49ab-4b2d-aa59-a10f01026c89}" RegisteredName="Performance" PackageName="PerformancePackage">
+		<PropertyValue name="toolsoptions.numbuffers">64</PropertyValue>
+		<PropertyValue name="toolsoptions.numfuncs">3</PropertyValue>
+		<PropertyValue name="toolsoptions.serialize">1</PropertyValue>
+		<PropertyValue name="toolsoptions.showtimeticks">0</PropertyValue>
+		<PropertyValue name="toolsoptions.sizebuffers">64</PropertyValue>
+	</Category>
+	<Category name="Source Control_Hatteras" Category="{2a718788-a6d9-44c5-90ef-438bf5b06a74}" Package="{de9df59e-8859-48a8-aa95-1e984b3b48a9}" RegisteredName="Source Control_Hatteras" PackageName="Microsoft.VisualStudio.TeamFoundation.VersionControl.HatPackage, Microsoft.VisualStudio.TeamFoundation.VersionControl, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+		<PropertyValue name="IsProxyEnabled">False</PropertyValue>
+		<PropertyValue name="ProxyUrl"/>
+		<PropertyValue name="ShowDeletedItems">false</PropertyValue>
+	</Category>
+	<Category name="Test Tools_Test Execution" Category="{48d11193-265d-1458-743e-2b88c655b377}" Package="{a9405ae6-9ac6-4f0e-a03f-7afe45f6fcb7}" RegisteredName="Test Tools_Test Execution" PackageName="Microsoft.VisualStudio.TestTools.TestCaseManagement.QualityToolsPackage, Microsoft.VisualStudio.QualityTools.TestCaseManagement, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+		<PropertyValue name="IsCodeColoringEnabled">True</PropertyValue>
+		<PropertyValue name="IsInPlaceInstrumentationEnabled">True</PropertyValue>
+		<PropertyValue name="PathToWebRoot"/>
+	</Category>
+	<Category name="WindowsFormsDesigner_General" Category="{de03177c-918d-40af-8c17-c9d63670c175}" Package="{7b5d447b-0b12-41ea-a84e-c822034422d4}" RegisteredName="WindowsFormsDesigner_General" PackageName="Windows Forms Designer Resources Package">
+		<PropertyValue name="AutoToolboxPopulate">True</PropertyValue>
+		<PropertyValue name="EnableInSituEditing">True</PropertyValue>
+		<PropertyValue name="EnableRefactoringOnRename">True</PropertyValue>
+		<PropertyValue name="GridSize">8, 8</PropertyValue>
+		<PropertyValue name="Language">(Default)</PropertyValue>
+		<PropertyValue name="LayoutMode">SnapLines</PropertyValue>
+		<PropertyValue name="ObjectBoundSmartTagAutoShow">True</PropertyValue>
+		<PropertyValue name="ShowGrid">True</PropertyValue>
+		<PropertyValue name="SnapToGrid">True</PropertyValue>
+		<PropertyValue name="UseOptimizedCodeGeneration">True</PropertyValue>
+	</Category>
+	<Category name="Work Item Tracking_View Settings" Category="{838067ed-0915-499e-a179-38d5111ea45c}" Package="{ca39e596-31ed-4b34-aa36-5f0240457a7e}" RegisteredName="Work Item Tracking_View Settings" PackageName="Microsoft.VisualStudio.TeamFoundation.WorkItemTracking.CurrituckPackage, Microsoft.VisualStudio.TeamFoundation.WorkItemTracking, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"/>
+	<Category name="XmlEditor" Category="{4E1CDE49-B840-4826-8CC6-8FB80D7EF455}" Package="{87569308-4813-40a0-9cd0-d7a30838ca3f}" RegisteredName="XmlEditor" PackageName="Visual Studio XML Editor Package">
+		<PropertyValue name="AttributeFormatting">None</PropertyValue>
+		<PropertyValue name="AutoDownload">True</PropertyValue>
+		<PropertyValue name="AutoInsertAttributeQuotes">True</PropertyValue>
+		<PropertyValue name="AutoInsertEndTags">True</PropertyValue>
+		<PropertyValue name="AutoInsertNamespaceDeclarations">True</PropertyValue>
+		<PropertyValue name="AutoInsertOther">True</PropertyValue>
+		<PropertyValue name="AutoOutlining">True</PropertyValue>
+		<PropertyValue name="AutoReformatOnEndTag">True</PropertyValue>
+		<PropertyValue name="AutoReformatOnPaste">True</PropertyValue>
+		<PropertyValue name="FormatMixedContentByDefault">True</PropertyValue>
+		<PropertyValue name="SchemaCacheLocation">%VsInstallDir%\xml\Schemas</PropertyValue>
+	</Category>
+	<Description>
+		<ResourceID>#4612</ResourceID>
+		<ResourcePackage>{E6FDF8B0-F3D1-11D4-8576-0002A516ECE8}</ResourcePackage>
+	</Description>
+	<DisplayName>
+		<ResourceID>#4611</ResourceID>
+		<ResourcePackage>{E6FDF8B0-F3D1-11D4-8576-0002A516ECE8}</ResourcePackage>
+	</DisplayName>
+	<ToolsOptions>
+		<ToolsOptionsCategory name="Environment" RegisteredName="Environment">
+			<ToolsOptionsSubCategory name="Documents" RegisteredName="Documents" PackageName="Visual Studio Environment Package">
+				<PropertyValue name="AllowEditingReadOnlyFiles">true</PropertyValue>
+				<PropertyValue name="AutoloadExternalChanges">false</PropertyValue>
+				<PropertyValue name="CheckForConsistentLineEndings">true</PropertyValue>
+				<PropertyValue name="DetectFileChangesOutsideIDE">true</PropertyValue>
+				<PropertyValue name="DontShowGlobalUndoChangeLossDialog">true</PropertyValue>
+				<PropertyValue name="InitializeOpenFileFromCurrentDocument">true</PropertyValue>
+				<PropertyValue name="MiscFilesProjectSavesLastNItems">0</PropertyValue>
+				<PropertyValue name="ReuseSavedActiveDocWindow">false</PropertyValue>
+				<PropertyValue name="SaveDocsAsUnicodeWhenDataLoss">false</PropertyValue>
+				<PropertyValue name="ShowMiscFilesProject">false</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="FindAndReplace" RegisteredName="FindAndReplace" PackageName="Visual Studio Environment Package">
+				<PropertyValue name="HideWindowAfterMatchFromQuickFindReplace">false</PropertyValue>
+				<PropertyValue name="InitializeFromEditor">true</PropertyValue>
+				<PropertyValue name="ShowMessageBoxes">true</PropertyValue>
+				<PropertyValue name="ShowWarningMessages">true</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="General" RegisteredName="General" PackageName="Visual Studio Environment Package">
+				<PropertyValue name="AnimationSpeed">5</PropertyValue>
+				<PropertyValue name="Animations">true</PropertyValue>
+				<PropertyValue name="AutohidePinActiveTabOnly">false</PropertyValue>
+				<PropertyValue name="CloseButtonActiveTabOnly">true</PropertyValue>
+				<PropertyValue name="MRUListContainsNItems">6</PropertyValue>
+				<PropertyValue name="ShowStatusBar">true</PropertyValue>
+				<PropertyValue name="WindowMenuContainsNItems">10</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="Import and Export Settings" RegisteredName="Import and Export Settings" PackageName="Visual Studio Environment Package">
+				<PropertyValue name="AutoSaveFile">%vsspv_settings_directory%\CurrentSettings.vssettings</PropertyValue>
+				<PropertyValue name="TeamSettingsFile"/>
+				<PropertyValue name="TrackTeamSettings">false</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="ProjectsAndSolution" RegisteredName="ProjectsAndSolution" PackageName="Visual Studio Environment Package">
+				<PropertyValue name="AlwaysShowSolutionNode">true</PropertyValue>
+				<PropertyValue name="ConcurrentBuilds">1</PropertyValue>
+				<PropertyValue name="DefaultBehaviorForStartupProjects">1</PropertyValue>
+				<PropertyValue name="MSBuildOutputVerbosity">1</PropertyValue>
+				<PropertyValue name="OnRunOrPreview">0</PropertyValue>
+				<PropertyValue name="OnRunWhenErrors">4</PropertyValue>
+				<PropertyValue name="OnRunWhenOutOfDate">4</PropertyValue>
+				<PropertyValue name="OnlySaveStartupProjectsAndDependencies">false</PropertyValue>
+				<PropertyValue name="ProjectItemTemplatesLocation">%vsspv_visualstudio_dir%\Templates\ItemTemplates</PropertyValue>
+				<PropertyValue name="ProjectTemplatesLocation">%vsspv_visualstudio_dir%\Templates\ProjectTemplates</PropertyValue>
+				<PropertyValue name="ProjectsLocation">%vsspv_visualstudio_dir%\Projects</PropertyValue>
+				<PropertyValue name="PromptForRenameSymbol">false</PropertyValue>
+				<PropertyValue name="SaveNewProjects">false</PropertyValue>
+				<PropertyValue name="ShowAdvancedBuildConfigurations">true</PropertyValue>
+				<PropertyValue name="ShowOutputWindowBeforeBuild">true</PropertyValue>
+				<PropertyValue name="ShowTaskListAfterBuild">true</PropertyValue>
+				<PropertyValue name="TrackFileSelectionInExplorer">true</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="Startup" RegisteredName="Startup" PackageName="Visual Studio Environment Package">
+				<PropertyValue name="OnStartUp">5</PropertyValue>
+				<PropertyValue name="StartPageRSSUrl">http://go.microsoft.com/fwlink/?linkid=45333&amp;clcid=%VSSPV_LCID_HEX%</PropertyValue>
+				<PropertyValue name="StartPageRefreshDownloadedContent">true</PropertyValue>
+				<PropertyValue name="StartPageRefreshInterval">60</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="TaskList" RegisteredName="TaskList" PackageName="Visual Studio Task List Package">
+				<PropertyValue name="CommentTokens" ArrayType="VT_VARIANT" ArrayElementCount="4">
+					<PropertyValue name="0">TODO:2</PropertyValue>
+					<PropertyValue name="1">UNDONE:2</PropertyValue>
+					<PropertyValue name="2">HACK:2</PropertyValue>
+					<PropertyValue name="3">UnresolvedMergeConflict:3</PropertyValue>
+				</PropertyValue>
+				<PropertyValue name="ConfirmTaskDeletion">true</PropertyValue>
+				<PropertyValue name="DontShowFilePaths">true</PropertyValue>
+				<PropertyValue name="WarnOnAddingHiddenItem">false</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="WebBrowser" RegisteredName="WebBrowser" PackageName="Visual Studio Web Browser Package">
+				<PropertyValue name="HomePage">http://go.microsoft.com/fwlink/?LinkId=36597&amp;clcid=%VSSPV_LCID_HEX%</PropertyValue>
+				<PropertyValue name="SearchPage">http://search.microsoft.com/search/search.aspx?view=msdn/</PropertyValue>
+				<PropertyValue name="ViewSourceExternalProgram">%systemroot%\system32\notepad.exe</PropertyValue>
+				<PropertyValue name="ViewSourceIn">1</PropertyValue>
+			</ToolsOptionsSubCategory>
+		</ToolsOptionsCategory>
+		<ToolsOptionsCategory name="Projects" RegisteredName="Projects">
+			<ToolsOptionsSubCategory name="VBDefaults" RegisteredName="VBDefaults" PackageName="Visual Basic Project System">
+				<PropertyValue name="OptionCompare">0</PropertyValue>
+				<PropertyValue name="OptionExplicit">1</PropertyValue>
+				<PropertyValue name="OptionStrict">0</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="VCDirectories" RegisteredName="VCDirectories" PackageName="Visual C++ Project System Package">
+				<PropertyValue name="ExcludeDirectories">Win32|$(VCInstallDir)include;$(VCInstallDir)atlmfc\include;$(VCInstallDir)PlatformSDK\include;$(VCInstallDir)PlatformSDK\common\include;$(FrameworkSDKDir)include;$(FrameworkDir)$(FrameworkVersion);$(VCInstallDir)atlmfc\lib|Pocket PC 2003 (ARMV4)|$(VCInstallDir)ce\include;$(VSInstallDir)SmartDevices\SDK\PocketPC2003\include;$(VCInstallDir)ce\atlmfc\include;$(VSInstallDir)SmartDevices\SDK\SQL Server\Mobile\v3.0;;|Smartphone 2003 (ARMV4)|$(VCInstallDir)ce\include;$(VSInstallDir)SmartDevices\SDK\SmartPhone2003\include;$(VCInstallDir)ce\atlmfc\include;$(VSInstallDir)SmartDevices\SDK\SQL Server\Mobile\v3.0;;</PropertyValue>
+				<PropertyValue name="ExecutableDirectories">Win32|$(VCInstallDir)bin;$(VCInstallDir)PlatformSDK\bin;$(VCInstallDir)PlatformSDK\common\bin;$(VSInstallDir)Common7\Tools\bin;$(VSInstallDir)Common7\tools;$(VSInstallDir)Common7\ide;$(ProgramFiles)\HTML Help Workshop;$(FrameworkSDKDir)bin;$(FrameworkDir)$(FrameworkVersion);$(VSInstallDir);$(SystemRoot)\SysWow64;$(FxCopDir);$(PATH)|Pocket PC 2003 (ARMV4)|$(VCInstallDir)ce\bin\x86_arm;$(VCInstallDir)bin;$(VSInstallDir)Common7\Tools;$(VSInstallDir)Common7\IDE;$(VSInstallDir)Common\Tools;$(VSInstallDir)Common\IDE;$(VSInstallDir);$(FrameworkSDKDir)Bin;$(PATH);|Smartphone 2003 (ARMV4)|$(VCInstallDir)ce\bin\x86_arm;$(VCInstallDir)bin;$(VSInstallDir)Common7\Tools;$(VSInstallDir)Common7\IDE;$(VSInstallDir)Common\Tools;$(VSInstallDir)Common\IDE;$(VSInstallDir);$(FrameworkSDKDir)Bin;$(PATH);</PropertyValue>
+				<PropertyValue name="IncludeDirectories">Win32|$(VCInstallDir)include;$(VCInstallDir)atlmfc\include;$(VCInstallDir)PlatformSDK\include;$(VCInstallDir)PlatformSDK\common\include;$(FrameworkSDKDir)include|Pocket PC 2003 (ARMV4)|$(VCInstallDir)ce\include;$(VSInstallDir)SmartDevices\SDK\PocketPC2003\include;$(VCInstallDir)ce\atlmfc\include;$(VSInstallDir)SmartDevices\SDK\SQL Server\Mobile\v3.0;|Smartphone 2003 (ARMV4)|$(VCInstallDir)ce\include;$(VSInstallDir)SmartDevices\SDK\SmartPhone2003\include;$(VCInstallDir)ce\atlmfc\include;$(VSInstallDir)SmartDevices\SDK\SQL Server\Mobile\v3.0;</PropertyValue>
+				<PropertyValue name="LibraryDirectories">Win32|$(VCInstallDir)lib;$(VCInstallDir)atlmfc\lib;$(VCInstallDir)atlmfc\lib\i386;$(VCInstallDir)PlatformSDK\lib;$(VCInstallDir)PlatformSDK\common\lib;$(FrameworkSDKDir)lib;$(VSInstallDir);$(VSInstallDir)lib|Pocket PC 2003 (ARMV4)|$(VSInstallDir)SmartDevices\SDK\PocketPC2003\lib\ARMV4;$(VCInstallDir)ce\atlmfc\lib\ARMV4;$(VCInstallDir)ce\lib\ARMV4;|Smartphone 2003 (ARMV4)|$(VSInstallDir)SmartDevices\SDK\SmartPhone2003\lib\ARMV4;$(VCInstallDir)ce\atlmfc\lib\ARMV4;$(VCInstallDir)ce\lib\ARMV4;</PropertyValue>
+				<PropertyValue name="ReferenceDirectories">Win32|$(FrameworkDir)$(FrameworkVersion);$(VCInstallDir)atlmfc\lib|Pocket PC 2003 (ARMV4)||Smartphone 2003 (ARMV4)|</PropertyValue>
+				<PropertyValue name="SourceDirectories">Win32|$(VCInstallDir)atlmfc\src\mfc;$(VCInstallDir)atlmfc\src\atl;$(VCInstallDir)crt\src|Pocket PC 2003 (ARMV4)|$(VCInstallDir)ce\atlmfc\src\atl\;$(VCInstallDir)ce\atlmfc\src\mfc\;$(VCInstallDir)ce\crt\src\|Smartphone 2003 (ARMV4)|$(VCInstallDir)ce\atlmfc\src\atl\;$(VCInstallDir)ce\atlmfc\src\mfc\;$(VCInstallDir)ce\crt\src\</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="VCGeneral" RegisteredName="VCGeneral" PackageName="Visual C++ Project System Package">
+				<PropertyValue name="BuildLogging">true</PropertyValue>
+				<PropertyValue name="BuildTiming">false</PropertyValue>
+				<PropertyValue name="CPPExtensions">*.cpp;*.cxx;*.cc;*.c</PropertyValue>
+				<PropertyValue name="DefaultSolutionExplorerMode">0</PropertyValue>
+				<PropertyValue name="ExtensionsToHide">.suo;.sln;.ncb;.vcproj;.csproj;.user;.vbproj;.scc;.vsscc;.vspscc;.old</PropertyValue>
+				<PropertyValue name="ExtensionsToInclude">.cpp;.cxx;.cc;.c;.inl;.h;.hpp;.hxx;.hm;.inc;.rc;.resx;.idl;.rc2;.def;.odl;.asm;.asmx;.xsd;.bin;.rgs;.html;.htm;.manifest</PropertyValue>
+				<PropertyValue name="ShowEnvironmentInBuildLog">false</PropertyValue>
+				<PropertyValue name="ShowMatchingRuleDlg">true</PropertyValue>
+				<PropertyValue name="ShowNoMatchingRuleDlg">true</PropertyValue>
+				<PropertyValue name="ToolFileSearchPaths"/>
+				<PropertyValue name="ValidateSchemas">true</PropertyValue>
+			</ToolsOptionsSubCategory>
+		</ToolsOptionsCategory>
+		<ToolsOptionsCategory name="TextEditor" RegisteredName="TextEditor">
+			<ToolsOptionsSubCategory name="AllLanguages" RegisteredName="AllLanguages" PackageName="Text Management Package"/>
+			<ToolsOptionsSubCategory name="Basic" RegisteredName="Basic" PackageName="Text Management Package">
+				<PropertyValue name="AutoListMembers">true</PropertyValue>
+				<PropertyValue name="AutoListParams">true</PropertyValue>
+				<PropertyValue name="CutCopyBlankLines">true</PropertyValue>
+				<PropertyValue name="EnableLeftClickForURLs">true</PropertyValue>
+				<PropertyValue name="HideAdvancedMembers">false</PropertyValue>
+				<PropertyValue name="IndentSize">4</PropertyValue>
+				<PropertyValue name="IndentStyle">2</PropertyValue>
+				<PropertyValue name="InsertTabs">false</PropertyValue>
+				<PropertyValue name="ShowLineNumbers">false</PropertyValue>
+				<PropertyValue name="ShowNavigationBar">false</PropertyValue>
+				<PropertyValue name="TabSize">4</PropertyValue>
+				<PropertyValue name="VirtualSpace">false</PropertyValue>
+				<PropertyValue name="WordWrap">false</PropertyValue>
+				<PropertyValue name="WordWrapGlyphs">true</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="Basic-Specific" RegisteredName="Basic-Specific" PackageName="Visual Basic Compiler Package">
+				<PropertyValue name="AutoEndInsert">true</PropertyValue>
+				<PropertyValue name="AutoRequiredMemberInsert">true</PropertyValue>
+				<PropertyValue name="DisplayLineSeparators">true</PropertyValue>
+				<PropertyValue name="EnableErrorCorrection">true</PropertyValue>
+				<PropertyValue name="Outlining">true</PropertyValue>
+				<PropertyValue name="PrettyListing">true</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="C/C++" RegisteredName="C/C++" PackageName="Text Management Package">
+				<PropertyValue name="AutoListMembers">true</PropertyValue>
+				<PropertyValue name="AutoListParams">true</PropertyValue>
+				<PropertyValue name="CutCopyBlankLines">true</PropertyValue>
+				<PropertyValue name="EnableLeftClickForURLs">true</PropertyValue>
+				<PropertyValue name="HideAdvancedMembers">true</PropertyValue>
+				<PropertyValue name="IndentSize">4</PropertyValue>
+				<PropertyValue name="IndentStyle">2</PropertyValue>
+				<PropertyValue name="InsertTabs">true</PropertyValue>
+				<PropertyValue name="ShowLineNumbers">false</PropertyValue>
+				<PropertyValue name="ShowNavigationBar">true</PropertyValue>
+				<PropertyValue name="TabSize">4</PropertyValue>
+				<PropertyValue name="VirtualSpace">false</PropertyValue>
+				<PropertyValue name="WordWrap">false</PropertyValue>
+				<PropertyValue name="WordWrapGlyphs">true</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="C/C++ Specific" RegisteredName="C/C++ Specific" PackageName="Visual C++ Language Manager Package">
+				<PropertyValue name="AutomaticOutliningOfPragmaRegions">true</PropertyValue>
+				<PropertyValue name="AutomaticOutliningOfStatementBlocks">false</PropertyValue>
+				<PropertyValue name="ColorizeInactiveBlocksDifferently">true</PropertyValue>
+				<PropertyValue name="EnableQuickInfoToolTips">true</PropertyValue>
+				<PropertyValue name="EnterOutliningModeWhenFilesOpen">true</PropertyValue>
+				<PropertyValue name="IndentBraces">false</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="CSS" RegisteredName="CSS" PackageName="Text Management Package">
+				<PropertyValue name="AutoListMembers">true</PropertyValue>
+				<PropertyValue name="AutoListParams">true</PropertyValue>
+				<PropertyValue name="CutCopyBlankLines">true</PropertyValue>
+				<PropertyValue name="EnableLeftClickForURLs">true</PropertyValue>
+				<PropertyValue name="HideAdvancedMembers">true</PropertyValue>
+				<PropertyValue name="IndentSize">4</PropertyValue>
+				<PropertyValue name="IndentStyle">2</PropertyValue>
+				<PropertyValue name="InsertTabs">true</PropertyValue>
+				<PropertyValue name="ShowLineNumbers">false</PropertyValue>
+				<PropertyValue name="ShowNavigationBar">false</PropertyValue>
+				<PropertyValue name="TabSize">4</PropertyValue>
+				<PropertyValue name="VirtualSpace">false</PropertyValue>
+				<PropertyValue name="WordWrap">false</PropertyValue>
+				<PropertyValue name="WordWrapGlyphs">true</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="CSS Specific" RegisteredName="CSS Specific" PackageName="Visual Studio CSS Editing Package">
+				<PropertyValue name="DetectErrorsEnabled">1</PropertyValue>
+				<PropertyValue name="DetectInvalidValuesEnabled">1</PropertyValue>
+				<PropertyValue name="DetectUnknownPropsEnabled">1</PropertyValue>
+				<PropertyValue name="FormatPropCase">1</PropertyValue>
+				<PropertyValue name="FormatStyle">2</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="CSharp" RegisteredName="CSharp" PackageName="Text Management Package">
+				<PropertyValue name="AutoListMembers">true</PropertyValue>
+				<PropertyValue name="AutoListParams">true</PropertyValue>
+				<PropertyValue name="CutCopyBlankLines">true</PropertyValue>
+				<PropertyValue name="EnableLeftClickForURLs">true</PropertyValue>
+				<PropertyValue name="HideAdvancedMembers">true</PropertyValue>
+				<PropertyValue name="IndentSize">4</PropertyValue>
+				<PropertyValue name="IndentStyle">2</PropertyValue>
+				<PropertyValue name="InsertTabs">false</PropertyValue>
+				<PropertyValue name="ShowLineNumbers">false</PropertyValue>
+				<PropertyValue name="ShowNavigationBar">true</PropertyValue>
+				<PropertyValue name="TabSize">4</PropertyValue>
+				<PropertyValue name="VirtualSpace">false</PropertyValue>
+				<PropertyValue name="WordWrap">false</PropertyValue>
+				<PropertyValue name="WordWrapGlyphs">true</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="CSharp-Specific" RegisteredName="CSharp-Specific" PackageName="Visual C# Language Service Package">
+				<PropertyValue name="AutoComment">1</PropertyValue>
+				<PropertyValue name="BraceMatchingRectangle">1</PropertyValue>
+				<PropertyValue name="BringUpOnEventHookup">1</PropertyValue>
+				<PropertyValue name="BringUpOnIdentifier">1</PropertyValue>
+				<PropertyValue name="BringUpOnOverride">1</PropertyValue>
+				<PropertyValue name="BringUpOnSpace">1</PropertyValue>
+				<PropertyValue name="CodeDefinitionWindow_DocumentationComment_IndentBase">1</PropertyValue>
+				<PropertyValue name="CodeDefinitionWindow_DocumentationComment_IndentOffset">2</PropertyValue>
+				<PropertyValue name="CodeDefinitionWindow_DocumentationComment_WrapLength">80</PropertyValue>
+				<PropertyValue name="CollapseInactiveBlocksOnOpen">1</PropertyValue>
+				<PropertyValue name="CollapseRegionBlocksOnOpen">1</PropertyValue>
+				<PropertyValue name="Colorize">1</PropertyValue>
+				<PropertyValue name="ColorizeBoundTypes">1</PropertyValue>
+				<PropertyValue name="CompleteOnNewline">1</PropertyValue>
+				<PropertyValue name="CompleteOnSpace">1</PropertyValue>
+				<PropertyValue name="CompletionCommitCharacters">{}[]().,:;+-*/%&amp;|^!~=&lt;&gt;?@#'"\</PropertyValue>
+				<PropertyValue name="DelayBeforeShowingErrors">1500</PropertyValue>
+				<PropertyValue name="EditAndContinueEnabled">1</PropertyValue>
+				<PropertyValue name="EditAndContinueReportEnterBreakStateFailure">1</PropertyValue>
+				<PropertyValue name="EnableProgressDialogOnWaitForBackground">1</PropertyValue>
+				<PropertyValue name="Enabled">1</PropertyValue>
+				<PropertyValue name="EncapsulateField_PreviewReferenceChanges">1</PropertyValue>
+				<PropertyValue name="EncapsulateField_SearchInComments">0</PropertyValue>
+				<PropertyValue name="EncapsulateField_SearchInStrings">0</PropertyValue>
+				<PropertyValue name="EncapsulateField_UpdateAllReferences">0</PropertyValue>
+				<PropertyValue name="EnterOutliningModeOnOpen">1</PropertyValue>
+				<PropertyValue name="ExtractInterface_SelectAll">0</PropertyValue>
+				<PropertyValue name="FilterKeywordsContextually">1</PropertyValue>
+				<PropertyValue name="FilterToAllowableTypes">1</PropertyValue>
+				<PropertyValue name="Formatting_TriggerOnBlockCompletion">1</PropertyValue>
+				<PropertyValue name="Formatting_TriggerOnPaste">1</PropertyValue>
+				<PropertyValue name="Formatting_TriggerOnStatementCompletion">1</PropertyValue>
+				<PropertyValue name="GenerateStub">1</PropertyValue>
+				<PropertyValue name="ImplementInterface">1</PropertyValue>
+				<PropertyValue name="ImplementInterface_InsertRegionTags">1</PropertyValue>
+				<PropertyValue name="Indent_BlockContents">1</PropertyValue>
+				<PropertyValue name="Indent_Braces">0</PropertyValue>
+				<PropertyValue name="Indent_CaseContents">1</PropertyValue>
+				<PropertyValue name="Indent_CaseLabels">1</PropertyValue>
+				<PropertyValue name="Indent_FlushLabelsLeft">0</PropertyValue>
+				<PropertyValue name="Indent_UnindentLabels">1</PropertyValue>
+				<PropertyValue name="InsertNewlineOnEnterWithWholeWord">0</PropertyValue>
+				<PropertyValue name="NeverShowBuildWarningDialog">0</PropertyValue>
+				<PropertyValue name="NewLines_Braces_AnonymousMethod">1</PropertyValue>
+				<PropertyValue name="NewLines_Braces_ArrayInitializer">0</PropertyValue>
+				<PropertyValue name="NewLines_Braces_ControlFlow">1</PropertyValue>
+				<PropertyValue name="NewLines_Braces_Method">1</PropertyValue>
+				<PropertyValue name="NewLines_Braces_Type">1</PropertyValue>
+				<PropertyValue name="NewLines_Keywords_Catch">1</PropertyValue>
+				<PropertyValue name="NewLines_Keywords_Else">1</PropertyValue>
+				<PropertyValue name="NewLines_Keywords_Finally">1</PropertyValue>
+				<PropertyValue name="OnlyScanFirstTypeInFileForDesignerAttribute">0</PropertyValue>
+				<PropertyValue name="ProgressDialogDelaySeconds">2</PropertyValue>
+				<PropertyValue name="QuickInfo_ShowAllExceptions">1</PropertyValue>
+				<PropertyValue name="RefactorNotifyRenameEnabled">1</PropertyValue>
+				<PropertyValue name="RemoveParameters_PreviewReferenceChanges">1</PropertyValue>
+				<PropertyValue name="Rename">1</PropertyValue>
+				<PropertyValue name="Rename_Comments">0</PropertyValue>
+				<PropertyValue name="Rename_Overloads">0</PropertyValue>
+				<PropertyValue name="Rename_Preview">1</PropertyValue>
+				<PropertyValue name="Rename_Strings">0</PropertyValue>
+				<PropertyValue name="ReorderParameters_PreviewReferenceChanges">1</PropertyValue>
+				<PropertyValue name="ShowHiddenItems">0</PropertyValue>
+				<PropertyValue name="ShowKeywords">1</PropertyValue>
+				<PropertyValue name="ShowSnippets">1</PropertyValue>
+				<PropertyValue name="SignatureChange">1</PropertyValue>
+				<PropertyValue name="Space_AfterBasesColon">1</PropertyValue>
+				<PropertyValue name="Space_AfterCast">0</PropertyValue>
+				<PropertyValue name="Space_AfterComma">1</PropertyValue>
+				<PropertyValue name="Space_AfterDot">0</PropertyValue>
+				<PropertyValue name="Space_AfterMethodCallName">0</PropertyValue>
+				<PropertyValue name="Space_AfterMethodDeclarationName">0</PropertyValue>
+				<PropertyValue name="Space_AfterSemicolonsInForStatement">1</PropertyValue>
+				<PropertyValue name="Space_AroundBinaryOperator">1</PropertyValue>
+				<PropertyValue name="Space_BeforeBasesColon">1</PropertyValue>
+				<PropertyValue name="Space_BeforeComma">0</PropertyValue>
+				<PropertyValue name="Space_BeforeDot">0</PropertyValue>
+				<PropertyValue name="Space_BeforeOpenSquare">0</PropertyValue>
+				<PropertyValue name="Space_BeforeSemicolonsInForStatement">0</PropertyValue>
+				<PropertyValue name="Space_BetweenEmptyMethodCallParentheses">0</PropertyValue>
+				<PropertyValue name="Space_BetweenEmptyMethodDeclarationParentheses">0</PropertyValue>
+				<PropertyValue name="Space_BetweenEmptySquares">0</PropertyValue>
+				<PropertyValue name="Space_InControlFlowConstruct">1</PropertyValue>
+				<PropertyValue name="Space_Normalize">0</PropertyValue>
+				<PropertyValue name="Space_WithinCastParentheses">0</PropertyValue>
+				<PropertyValue name="Space_WithinExpressionParentheses">0</PropertyValue>
+				<PropertyValue name="Space_WithinMethodCallParentheses">0</PropertyValue>
+				<PropertyValue name="Space_WithinMethodDeclarationParentheses">0</PropertyValue>
+				<PropertyValue name="Space_WithinOtherParentheses">0</PropertyValue>
+				<PropertyValue name="Space_WithinSquares">0</PropertyValue>
+				<PropertyValue name="Squiggles">1</PropertyValue>
+				<PropertyValue name="TrackMostRecentlyUsed">1</PropertyValue>
+				<PropertyValue name="UnboundItem">1</PropertyValue>
+				<PropertyValue name="UnboundItem_ExactMatches">5</PropertyValue>
+				<PropertyValue name="Watson_DeferSendingUntilLater">0</PropertyValue>
+				<PropertyValue name="Watson_MaxExceptionsToReport">1</PropertyValue>
+				<PropertyValue name="Watson_ReportExceptions">1</PropertyValue>
+				<PropertyValue name="Wrapping_IgnoreSpacesAroundBinaryOperators">0</PropertyValue>
+				<PropertyValue name="Wrapping_KeepStatementsOnSingleLine">1</PropertyValue>
+				<PropertyValue name="Wrapping_PreserveSingleLine">1</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="Fonts" RegisteredName="Fonts" PackageName="Text Management Package">
+				<PropertyValue name="FontCharacterSet">0</PropertyValue>
+				<PropertyValue name="FontFamily">Courier New</PropertyValue>
+				<PropertyValue name="FontSize">10</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="General" RegisteredName="General" PackageName="Text Management Package">
+				<PropertyValue name="AutoDelimiterHighlighting">true</PropertyValue>
+				<PropertyValue name="DetectUTF8WithoutSignature">true</PropertyValue>
+				<PropertyValue name="DragNDropTextEditing">true</PropertyValue>
+				<PropertyValue name="EditorEmulation">0</PropertyValue>
+				<PropertyValue name="GoToAnchorAfterEscape">false</PropertyValue>
+				<PropertyValue name="HorizontalScrollBar">true</PropertyValue>
+				<PropertyValue name="MarginIndicatorBar">true</PropertyValue>
+				<PropertyValue name="SelectionMargin">true</PropertyValue>
+				<PropertyValue name="TrackChanges">true</PropertyValue>
+				<PropertyValue name="UndoCaretActions">false</PropertyValue>
+				<PropertyValue name="VerticalScrollBar">true</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="HTML" RegisteredName="HTML" PackageName="Text Management Package">
+				<PropertyValue name="AutoListMembers">true</PropertyValue>
+				<PropertyValue name="AutoListParams">true</PropertyValue>
+				<PropertyValue name="CutCopyBlankLines">true</PropertyValue>
+				<PropertyValue name="EnableLeftClickForURLs">true</PropertyValue>
+				<PropertyValue name="HideAdvancedMembers">true</PropertyValue>
+				<PropertyValue name="IndentSize">4</PropertyValue>
+				<PropertyValue name="IndentStyle">1</PropertyValue>
+				<PropertyValue name="InsertTabs">false</PropertyValue>
+				<PropertyValue name="ShowLineNumbers">false</PropertyValue>
+				<PropertyValue name="ShowNavigationBar">true</PropertyValue>
+				<PropertyValue name="TabSize">4</PropertyValue>
+				<PropertyValue name="VirtualSpace">false</PropertyValue>
+				<PropertyValue name="WordWrap">false</PropertyValue>
+				<PropertyValue name="WordWrapGlyphs">true</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="HTML Specific" RegisteredName="HTML Specific" PackageName="Visual Studio HTM Editor Package">
+				<PropertyValue name="AttrValueNotQuoted">0</PropertyValue>
+				<PropertyValue name="AutoIDOnPaste">1</PropertyValue>
+				<PropertyValue name="AutoInsertCloseTag">1</PropertyValue>
+				<PropertyValue name="AutoPositionMode">0</PropertyValue>
+				<PropertyValue name="AutoPositioning">0</PropertyValue>
+				<PropertyValue name="AutoShowSmartTag">1</PropertyValue>
+				<PropertyValue name="ClientAttrCasing">2</PropertyValue>
+				<PropertyValue name="ClientTagCasing">2</PropertyValue>
+				<PropertyValue name="ClientTagNotLowerCase">0</PropertyValue>
+				<PropertyValue name="ElementOrAttributeDeprecated">0</PropertyValue>
+				<PropertyValue name="FormatHTMLOnPaste">0</PropertyValue>
+				<PropertyValue name="HGridSpacing">8</PropertyValue>
+				<PropertyValue name="InInlineStyle">1</PropertyValue>
+				<PropertyValue name="InsertAttrValueQuotesFormatting">1</PropertyValue>
+				<PropertyValue name="InsertAttrValueQuotesTyping">0</PropertyValue>
+				<PropertyValue name="ServerAttrCasing">3</PropertyValue>
+				<PropertyValue name="ServerTagCasing">3</PropertyValue>
+				<PropertyValue name="ShowBorders">1</PropertyValue>
+				<PropertyValue name="ShowDetails">0</PropertyValue>
+				<PropertyValue name="ShowErrors">1</PropertyValue>
+				<PropertyValue name="ShowGlyphs">1</PropertyValue>
+				<PropertyValue name="SnapToGrid">0</PropertyValue>
+				<PropertyValue name="StartPageIn">2</PropertyValue>
+				<PropertyValue name="TagNotWellFormed">0</PropertyValue>
+				<PropertyValue name="TargetFriendlyName">XHTML 1.0 Transitional (Netscape 7, Opera 7, Internet Explorer 6)</PropertyValue>
+				<PropertyValue name="VGridSpacing">8</PropertyValue>
+				<PropertyValue name="WrapTag">1</PropertyValue>
+				<PropertyValue name="WrapTagLength">80</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="PL/SQL" RegisteredName="PL/SQL" PackageName="Text Management Package">
+				<PropertyValue name="AutoListMembers">true</PropertyValue>
+				<PropertyValue name="AutoListParams">true</PropertyValue>
+				<PropertyValue name="CutCopyBlankLines">true</PropertyValue>
+				<PropertyValue name="EnableLeftClickForURLs">true</PropertyValue>
+				<PropertyValue name="HideAdvancedMembers">true</PropertyValue>
+				<PropertyValue name="IndentSize">4</PropertyValue>
+				<PropertyValue name="IndentStyle">1</PropertyValue>
+				<PropertyValue name="InsertTabs">true</PropertyValue>
+				<PropertyValue name="ShowLineNumbers">false</PropertyValue>
+				<PropertyValue name="ShowNavigationBar">false</PropertyValue>
+				<PropertyValue name="TabSize">4</PropertyValue>
+				<PropertyValue name="VirtualSpace">false</PropertyValue>
+				<PropertyValue name="WordWrap">false</PropertyValue>
+				<PropertyValue name="WordWrapGlyphs">true</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="PlainText" RegisteredName="PlainText" PackageName="Text Management Package">
+				<PropertyValue name="AutoListMembers">true</PropertyValue>
+				<PropertyValue name="AutoListParams">true</PropertyValue>
+				<PropertyValue name="CutCopyBlankLines">true</PropertyValue>
+				<PropertyValue name="EnableLeftClickForURLs">true</PropertyValue>
+				<PropertyValue name="HideAdvancedMembers">true</PropertyValue>
+				<PropertyValue name="IndentSize">4</PropertyValue>
+				<PropertyValue name="IndentStyle">1</PropertyValue>
+				<PropertyValue name="InsertTabs">true</PropertyValue>
+				<PropertyValue name="ShowLineNumbers">false</PropertyValue>
+				<PropertyValue name="ShowNavigationBar">false</PropertyValue>
+				<PropertyValue name="TabSize">4</PropertyValue>
+				<PropertyValue name="VirtualSpace">false</PropertyValue>
+				<PropertyValue name="WordWrap">false</PropertyValue>
+				<PropertyValue name="WordWrapGlyphs">true</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="SQL Script" RegisteredName="SQL Script" PackageName="Text Management Package">
+				<PropertyValue name="AutoListMembers">true</PropertyValue>
+				<PropertyValue name="AutoListParams">true</PropertyValue>
+				<PropertyValue name="CutCopyBlankLines">true</PropertyValue>
+				<PropertyValue name="EnableLeftClickForURLs">true</PropertyValue>
+				<PropertyValue name="HideAdvancedMembers">true</PropertyValue>
+				<PropertyValue name="IndentSize">4</PropertyValue>
+				<PropertyValue name="IndentStyle">1</PropertyValue>
+				<PropertyValue name="InsertTabs">true</PropertyValue>
+				<PropertyValue name="ShowLineNumbers">false</PropertyValue>
+				<PropertyValue name="ShowNavigationBar">false</PropertyValue>
+				<PropertyValue name="TabSize">4</PropertyValue>
+				<PropertyValue name="VirtualSpace">false</PropertyValue>
+				<PropertyValue name="WordWrap">false</PropertyValue>
+				<PropertyValue name="WordWrapGlyphs">true</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="T-SQL" RegisteredName="T-SQL" PackageName="Text Management Package">
+				<PropertyValue name="AutoListMembers">true</PropertyValue>
+				<PropertyValue name="AutoListParams">true</PropertyValue>
+				<PropertyValue name="CutCopyBlankLines">true</PropertyValue>
+				<PropertyValue name="EnableLeftClickForURLs">true</PropertyValue>
+				<PropertyValue name="HideAdvancedMembers">true</PropertyValue>
+				<PropertyValue name="IndentSize">4</PropertyValue>
+				<PropertyValue name="IndentStyle">1</PropertyValue>
+				<PropertyValue name="InsertTabs">true</PropertyValue>
+				<PropertyValue name="ShowLineNumbers">false</PropertyValue>
+				<PropertyValue name="ShowNavigationBar">false</PropertyValue>
+				<PropertyValue name="TabSize">4</PropertyValue>
+				<PropertyValue name="VirtualSpace">false</PropertyValue>
+				<PropertyValue name="WordWrap">false</PropertyValue>
+				<PropertyValue name="WordWrapGlyphs">true</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="T-SQL7" RegisteredName="T-SQL7" PackageName="Text Management Package">
+				<PropertyValue name="AutoListMembers">true</PropertyValue>
+				<PropertyValue name="AutoListParams">true</PropertyValue>
+				<PropertyValue name="CutCopyBlankLines">true</PropertyValue>
+				<PropertyValue name="EnableLeftClickForURLs">true</PropertyValue>
+				<PropertyValue name="HideAdvancedMembers">true</PropertyValue>
+				<PropertyValue name="IndentSize">4</PropertyValue>
+				<PropertyValue name="IndentStyle">1</PropertyValue>
+				<PropertyValue name="InsertTabs">true</PropertyValue>
+				<PropertyValue name="ShowLineNumbers">false</PropertyValue>
+				<PropertyValue name="ShowNavigationBar">false</PropertyValue>
+				<PropertyValue name="TabSize">4</PropertyValue>
+				<PropertyValue name="VirtualSpace">false</PropertyValue>
+				<PropertyValue name="WordWrap">false</PropertyValue>
+				<PropertyValue name="WordWrapGlyphs">true</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="T-SQL80" RegisteredName="T-SQL80" PackageName="Text Management Package">
+				<PropertyValue name="AutoListMembers">true</PropertyValue>
+				<PropertyValue name="AutoListParams">true</PropertyValue>
+				<PropertyValue name="CutCopyBlankLines">true</PropertyValue>
+				<PropertyValue name="EnableLeftClickForURLs">true</PropertyValue>
+				<PropertyValue name="HideAdvancedMembers">true</PropertyValue>
+				<PropertyValue name="IndentSize">4</PropertyValue>
+				<PropertyValue name="IndentStyle">1</PropertyValue>
+				<PropertyValue name="InsertTabs">true</PropertyValue>
+				<PropertyValue name="ShowLineNumbers">false</PropertyValue>
+				<PropertyValue name="ShowNavigationBar">false</PropertyValue>
+				<PropertyValue name="TabSize">4</PropertyValue>
+				<PropertyValue name="VirtualSpace">false</PropertyValue>
+				<PropertyValue name="WordWrap">false</PropertyValue>
+				<PropertyValue name="WordWrapGlyphs">true</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="VJSharp-Specific" RegisteredName="VJSharp-Specific" PackageName="Visual J# Language Service Package">
+				<PropertyValue name="AutoComment">1</PropertyValue>
+				<PropertyValue name="AutoCompleteOnOverride_UseOverrideStub">0</PropertyValue>
+				<PropertyValue name="Binding_AttemptRebindIgnoringAccessibility">1</PropertyValue>
+				<PropertyValue name="BraceMatchingRectangle">1</PropertyValue>
+				<PropertyValue name="BringUpOnEventHookup">1</PropertyValue>
+				<PropertyValue name="BringUpOnIdentifier">1</PropertyValue>
+				<PropertyValue name="BringUpOnOverride">1</PropertyValue>
+				<PropertyValue name="BringUpOnSpace">1</PropertyValue>
+				<PropertyValue name="CodeDefinitionWindow_DocumentationComment_WrapLength">80</PropertyValue>
+				<PropertyValue name="CollapseInactiveBlocksOnOpen">1</PropertyValue>
+				<PropertyValue name="CollapseRegionBlocksOnOpen">1</PropertyValue>
+				<PropertyValue name="Colorize">1</PropertyValue>
+				<PropertyValue name="ColorizeBoundTypes">1</PropertyValue>
+				<PropertyValue name="ColorizeUnboundTypes">0</PropertyValue>
+				<PropertyValue name="CompleteOnNewline">1</PropertyValue>
+				<PropertyValue name="CompleteOnSpace">1</PropertyValue>
+				<PropertyValue name="CompletionCommitCharacters">{}[]().,:;+-/%&amp;|^!~=&lt;&gt;?@#'"\</PropertyValue>
+				<PropertyValue name="DelayBeforeShowingErrors">1500</PropertyValue>
+				<PropertyValue name="DisplayMessageOnCatastrophicCompilerError">0</PropertyValue>
+				<PropertyValue name="EditAndContinueEnabled">1</PropertyValue>
+				<PropertyValue name="EnableProgressDialogOnWaitForBackground">1</PropertyValue>
+				<PropertyValue name="Enabled">1</PropertyValue>
+				<PropertyValue name="EncapsulateField_PreviewReferenceChanges">1</PropertyValue>
+				<PropertyValue name="EncapsulateField_SearchInComments">0</PropertyValue>
+				<PropertyValue name="EncapsulateField_SearchInStrings">0</PropertyValue>
+				<PropertyValue name="EncapsulateField_UpdateAllReferences">0</PropertyValue>
+				<PropertyValue name="EnterOutliningModeOnOpen">1</PropertyValue>
+				<PropertyValue name="ExtractInterface_SelectAll">0</PropertyValue>
+				<PropertyValue name="FilterKeywordsContextually">1</PropertyValue>
+				<PropertyValue name="FilterToAllowableTypes">1</PropertyValue>
+				<PropertyValue name="FlushUnusuedTypesLimit">4096</PropertyValue>
+				<PropertyValue name="Formatting_TriggerOnBlockCompletion">1</PropertyValue>
+				<PropertyValue name="Formatting_TriggerOnPaste">1</PropertyValue>
+				<PropertyValue name="Formatting_TriggerOnStatementCompletion">1</PropertyValue>
+				<PropertyValue name="GenerateStub">1</PropertyValue>
+				<PropertyValue name="GenerateStub_OnlyWithinMethods">0</PropertyValue>
+				<PropertyValue name="ImplementInterface">1</PropertyValue>
+				<PropertyValue name="ImplementInterface_InsertRegionTags">1</PropertyValue>
+				<PropertyValue name="ImplementInterface_ReimplementExistingExplicitMembersInSuperTypes">1</PropertyValue>
+				<PropertyValue name="ImplementInterface_ReimplementExistingImplicitMembersInSuperTypes">0</PropertyValue>
+				<PropertyValue name="Indent_BlockContents">1</PropertyValue>
+				<PropertyValue name="Indent_Braces">0</PropertyValue>
+				<PropertyValue name="Indent_CaseContents">1</PropertyValue>
+				<PropertyValue name="Indent_CaseLabels">1</PropertyValue>
+				<PropertyValue name="Indent_FlushLabelsLeft">0</PropertyValue>
+				<PropertyValue name="Indent_UnindentLabels">1</PropertyValue>
+				<PropertyValue name="MostRecentlyUsedCount">10</PropertyValue>
+				<PropertyValue name="NeverShowBuildWarningDialog">0</PropertyValue>
+				<PropertyValue name="NewLines_Braces_AnonymousMethod">1</PropertyValue>
+				<PropertyValue name="NewLines_Braces_ArrayInitializer">0</PropertyValue>
+				<PropertyValue name="NewLines_Braces_ControlFlow">1</PropertyValue>
+				<PropertyValue name="NewLines_Braces_Method">1</PropertyValue>
+				<PropertyValue name="NewLines_Braces_Type">1</PropertyValue>
+				<PropertyValue name="NewLines_Keywords_Catch">1</PropertyValue>
+				<PropertyValue name="NewLines_Keywords_Else">1</PropertyValue>
+				<PropertyValue name="NewLines_Keywords_Finally">1</PropertyValue>
+				<PropertyValue name="ParameterHelp_FilterOnParameterCount">0</PropertyValue>
+				<PropertyValue name="ParseFileOnOpen">1</PropertyValue>
+				<PropertyValue name="PreselectEnumOnMethodCall">1</PropertyValue>
+				<PropertyValue name="ProgressDialogDelaySeconds">2</PropertyValue>
+				<PropertyValue name="PromoteLocal_Enabled">1</PropertyValue>
+				<PropertyValue name="QuickInfo_ShowAllExceptions">1</PropertyValue>
+				<PropertyValue name="QuickInfo_ShowAllOverloads">0</PropertyValue>
+				<PropertyValue name="RefactorNotifyRenameEnabled">1</PropertyValue>
+				<PropertyValue name="RemoveParameters_PreviewReferenceChanges">1</PropertyValue>
+				<PropertyValue name="Rename">1</PropertyValue>
+				<PropertyValue name="Rename_Comments">0</PropertyValue>
+				<PropertyValue name="Rename_Overloads">0</PropertyValue>
+				<PropertyValue name="Rename_Preview">1</PropertyValue>
+				<PropertyValue name="Rename_Strings">0</PropertyValue>
+				<PropertyValue name="ReorderParameters_PreviewReferenceChanges">1</PropertyValue>
+				<PropertyValue name="ShowExpansions">1</PropertyValue>
+				<PropertyValue name="ShowHiddenItems">0</PropertyValue>
+				<PropertyValue name="ShowInitializerInDescription">1</PropertyValue>
+				<PropertyValue name="ShowKeywords">1</PropertyValue>
+				<PropertyValue name="SignatureChange">1</PropertyValue>
+				<PropertyValue name="Space_AfterBasesColon">1</PropertyValue>
+				<PropertyValue name="Space_AfterCast">0</PropertyValue>
+				<PropertyValue name="Space_AfterComma">1</PropertyValue>
+				<PropertyValue name="Space_AfterDot">0</PropertyValue>
+				<PropertyValue name="Space_AfterMethodCallName">0</PropertyValue>
+				<PropertyValue name="Space_AfterMethodDeclarationName">0</PropertyValue>
+				<PropertyValue name="Space_AfterSemicolonsInForStatement">1</PropertyValue>
+				<PropertyValue name="Space_AroundBinaryOperator">1</PropertyValue>
+				<PropertyValue name="Space_BeforeBasesColon">1</PropertyValue>
+				<PropertyValue name="Space_BeforeComma">0</PropertyValue>
+				<PropertyValue name="Space_BeforeDot">0</PropertyValue>
+				<PropertyValue name="Space_BeforeOpenSquare">0</PropertyValue>
+				<PropertyValue name="Space_BeforeSemicolonsInForStatement">0</PropertyValue>
+				<PropertyValue name="Space_BetweenEmptyMethodCallParentheses">0</PropertyValue>
+				<PropertyValue name="Space_BetweenEmptyMethodDeclarationParentheses">0</PropertyValue>
+				<PropertyValue name="Space_BetweenEmptySquares">0</PropertyValue>
+				<PropertyValue name="Space_InControlFlowConstruct">1</PropertyValue>
+				<PropertyValue name="Space_Normalize">0</PropertyValue>
+				<PropertyValue name="Space_WithinCastParentheses">0</PropertyValue>
+				<PropertyValue name="Space_WithinExpressionParentheses">0</PropertyValue>
+				<PropertyValue name="Space_WithinMethodCallParentheses">0</PropertyValue>
+				<PropertyValue name="Space_WithinMethodDeclarationParentheses">0</PropertyValue>
+				<PropertyValue name="Space_WithinOtherParentheses">0</PropertyValue>
+				<PropertyValue name="Space_WithinSquares">0</PropertyValue>
+				<PropertyValue name="Squiggles">1</PropertyValue>
+				<PropertyValue name="TrackMostRecentlyUsed">1</PropertyValue>
+				<PropertyValue name="UnboundItem">1</PropertyValue>
+				<PropertyValue name="UnboundItem_ExactMatches">5</PropertyValue>
+				<PropertyValue name="UnboundItem_FullyQualify_UseRelativeNamespaces">1</PropertyValue>
+				<PropertyValue name="UnboundItem_PartialMatches">8</PropertyValue>
+				<PropertyValue name="UpdateRegisterDesignViewOnIdle">1</PropertyValue>
+				<PropertyValue name="UseIntellisenseForBreakpointValidation">1</PropertyValue>
+				<PropertyValue name="WeakAmbiguityChecking">0</PropertyValue>
+				<PropertyValue name="WeakTypeInference">0</PropertyValue>
+				<PropertyValue name="Wrapping_IgnoreSpacesAroundBinaryOperators">0</PropertyValue>
+				<PropertyValue name="Wrapping_KeepStatementsOnSingleLine">1</PropertyValue>
+				<PropertyValue name="Wrapping_PreserveSingleLine">1</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="Visual JSharp" RegisteredName="Visual JSharp" PackageName="Text Management Package">
+				<PropertyValue name="AutoListMembers">true</PropertyValue>
+				<PropertyValue name="AutoListParams">true</PropertyValue>
+				<PropertyValue name="CutCopyBlankLines">true</PropertyValue>
+				<PropertyValue name="EnableLeftClickForURLs">true</PropertyValue>
+				<PropertyValue name="HideAdvancedMembers">true</PropertyValue>
+				<PropertyValue name="IndentSize">4</PropertyValue>
+				<PropertyValue name="IndentStyle">2</PropertyValue>
+				<PropertyValue name="InsertTabs">true</PropertyValue>
+				<PropertyValue name="ShowLineNumbers">false</PropertyValue>
+				<PropertyValue name="ShowNavigationBar">true</PropertyValue>
+				<PropertyValue name="TabSize">4</PropertyValue>
+				<PropertyValue name="VirtualSpace">false</PropertyValue>
+				<PropertyValue name="WordWrap">false</PropertyValue>
+				<PropertyValue name="WordWrapGlyphs">true</PropertyValue>
+			</ToolsOptionsSubCategory>
+			<ToolsOptionsSubCategory name="XML" RegisteredName="XML" PackageName="Text Management Package">
+				<PropertyValue name="AutoListMembers">true</PropertyValue>
+				<PropertyValue name="AutoListParams">true</PropertyValue>
+				<PropertyValue name="CutCopyBlankLines">true</PropertyValue>
+				<PropertyValue name="EnableLeftClickForURLs">true</PropertyValue>
+				<PropertyValue name="HideAdvancedMembers">true</PropertyValue>
+				<PropertyValue name="IndentSize">2</PropertyValue>
+				<PropertyValue name="IndentStyle">2</PropertyValue>
+				<PropertyValue name="InsertTabs">false</PropertyValue>
+				<PropertyValue name="ShowLineNumbers">false</PropertyValue>
+				<PropertyValue name="ShowNavigationBar">false</PropertyValue>
+				<PropertyValue name="TabSize">2</PropertyValue>
+				<PropertyValue name="VirtualSpace">false</PropertyValue>
+				<PropertyValue name="WordWrap">false</PropertyValue>
+				<PropertyValue name="WordWrapGlyphs">true</PropertyValue>
+			</ToolsOptionsSubCategory>
+		</ToolsOptionsCategory>
+	</ToolsOptions>
+</UserSettings>
